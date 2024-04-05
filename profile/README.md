@@ -10,6 +10,10 @@
 \
 \
 \
+[DomStudioFacets](https://github.com/gecos-lab/DomStudioFacets): a Matlab script used for the analysis of 3D facets obtained with the [CloudCompare](https://www.danielgm.net/cc/) plugin [Facets](https://www.cloudcompare.org/doc/wiki/index.php/Facets_(plugin)). [DomStudioLineaments](https://github.com/gecos-lab/DomStudioLineaments) was derived form "Facets" and performs exactly the same analysis on 2D lineaments form a GIS.
+\
+\
+\
 [SlipTendency](https://github.com/gecos-lab/SlipTendency): a Matlab stress modelling script allowing to test the proness of planes with variable attitude to slip (slip tendency, also anisotropic) or dilate (dilation tendency) under an input stress field.
 \
 \
