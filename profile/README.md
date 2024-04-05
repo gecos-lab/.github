@@ -10,6 +10,10 @@
 \
 \
 \
+[DomStudioOrientation](https://github.com/andrea-bistacchi/DomStudioOrientation): interactive script used for the analysis of orientation data imported as CSV files with Dip / Dip Azimuth, performs K-medoids clustering and calculates von Mises-Fisher statistics.
+\
+\
+\
 [DomStudioFacets](https://github.com/gecos-lab/DomStudioFacets): a Matlab script used for the analysis of 3D facets obtained with the [CloudCompare](https://www.danielgm.net/cc/) plugin [Facets](https://www.cloudcompare.org/doc/wiki/index.php/Facets_(plugin)). [DomStudioLineaments](https://github.com/gecos-lab/DomStudioLineaments) was derived form "Facets" and performs exactly the same analysis on 2D lineaments form a GIS.
 \
 \
