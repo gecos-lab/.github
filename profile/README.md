@@ -4,7 +4,7 @@
 
 gecos-lab is the place where a team of (mainly) structural geologists, (mainly) from the University of Milano - Bicocca, develop coding projects for different applications in the geological sciences.
 
-If you are interested in a collaboration, please wtire an email to andrea.bistacchi@unimib.it.
+If you are interested in a collaboration, please write an email to andrea.bistacchi@unimib.it.
 
 <!--
 text under this line does not appear
