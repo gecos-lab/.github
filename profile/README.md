@@ -32,6 +32,8 @@
 \
 If you are interested in a collaboration, please write an email to andrea.bistacchi@unimib.it.
 
+![gecos-lab-QR](https://github.com/gecos-lab/.github/assets/12087912/9a9decd1-e714-44ce-86c4-5af30b74165b)
+
 <!--
 text under this line does not appear
 
