@@ -6,11 +6,15 @@
 ---
 ### Principal projects developed at gecos-lab are:
 \
+[PZero](https://github.com/andrea-bistacchi/PZero): a powerful 3D geomodelling application with a user-friendly GUI, explicit and implicit interpolation, a multitude of geological analysis tools (with emphasis on structural geology), and the possibility to deal with every kind of data that might be involved in 3D geology (field data, wells, seismics, Digital Outcrop Models, etc.).
+\
+\
+\
 [DomStudioFracStat1D](https://github.com/gecos-lab/DomStudioFracStat1D): a Matlab App used for statistical analysis of 1D scanline data as in [Bistacchi A., Mittempergher S., Martinelli M., Storti F., 2020. On a new robust workflow for the statistical and spatial analysis of fracture data collected with scanlines (or the importance of stationarity), Solid Earth, 11, 2535–2547](https://doi.org/10.5194/se-11-2535-2020). The algorithms behind [DomStudioFracStat1D](https://github.com/gecos-lab/DomStudioFracStat1D) have also been refactored in [Streamline2Scanline](https://github.com/gecos-lab/Streamline2Scanline), used for the analysis of spacing between lineaments on Mars in [De Toffoli, B., Massironi, M., Mazzarini, F., & Bistacchi, A., 2021. Rheological and mechanical layering of the crust underneath thumbprint terrains in Arcadia Planitia, Mars. Journal of Geophysical Research: Planets, 126, e2021JE007007](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JE007007).
 \
 \
 \
-[DomStudioOrientation](https://github.com/andrea-bistacchi/DomStudioOrientation): interactive script used for the analysis of orientation data imported as CSV files with Dip / Dip Azimuth, performs K-medoids clustering and calculates von Mises-Fisher statistics.
+[DomStudioOrientation](https://github.com/gecos-lab/DomStudioOrientation): interactive script used for the analysis of orientation data imported as CSV files with Dip / Dip Azimuth, performs K-medoids clustering and calculates von Mises-Fisher statistics.
 \
 \
 \
