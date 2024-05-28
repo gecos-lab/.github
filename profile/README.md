@@ -30,6 +30,10 @@
 \
 \
 \
+[AHE](https://github.com/gecos-lab/AHE): Adaptive Histogram Equalization in HSV color space of a collection of images stored in a directory.
+\
+\
+\
 [PyCalcolAr](https://github.com/gecos-lab/PyCalcolAr): Ar/Ar geochronology data processing and plotting in Python.
 \
 \
