@@ -38,6 +38,10 @@
 \
 \
 \
+[mu_rho_H<sub>2</sub>O](https://github.com/gecos-lab/mu_rho_H2O): plotting μ and ρ of a saline fluid vs. P, T in the crust.
+\
+\
+\
 If you are interested in a collaboration, please write an email to andrea.bistacchi@unimib.it.
 \
 \
