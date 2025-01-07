@@ -14,7 +14,11 @@
 \
 \
 \
-[DomStudioOrientation](https://github.com/gecos-lab/DomStudioOrientation): interactive script used for the analysis of orientation data imported as CSV files with Dip / Dip Azimuth, performs K-medoids clustering and calculates von Mises-Fisher statistics.
+[FracAbility](https://github.com/gecos-lab/FracAbility): a Python toolbox that can be used to analyse fracture networks and estimate length distributions considering and correcting the effect of right-censoring using survival analysis.
+\
+\
+\
+[FracAttitude](https://github.com/gecos-lab/FracAttitude): interactive Jupyter Notebook used for the analysis of orientation data imported as CSV files, performs K-medoids clustering, calculates von Mises-Fisher and Kent statistics, and performs ststistical tests for these distributions. An older and more limited version in Matlab is [DomStudioOrientation](https://github.com/gecos-lab/DomStudioOrientation).
 \
 \
 \
