@@ -14,7 +14,7 @@
 \
 \
 \
-[FracAbility](https://github.com/gecos-lab/FracAbility): a Python toolbox that can be used to analyse fracture networks and estimate length distributions considering and correcting the effect of right-censoring using survival analysis.
+[FracAbility](https://github.com/gecos-lab/FracAbility): a Python toolbox that can be used to analyse fracture networks and estimate length distributions considering and correcting the effect of right-censoring using survival analysis. Full exposure of theory with supporting case studies in [Benedetti, G., Casiraghi, S., Bertacchi, D., and Bistacchi, A. L. P.: Unbiased statistical length analysis of linear features: Adapting survival analysis to geological applications, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-2818, 2024](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2818/).
 \
 \
 \
