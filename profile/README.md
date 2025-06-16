@@ -1,4 +1,5 @@
-# gecos-lab
+
+![ScrittaGECOS](https://github.com/user-attachments/assets/3569645e-e651-43cd-8180-6246af933f81)
 ---
 ## A laboratory for COding in GEological Sciences at the University of Milano - Bicocca.
 
