@@ -12,7 +12,7 @@ gecos-lab is the place where a team of (mainly) structural geologists, (mainly) 
 \
 \
 \
-[DomStudioFracStat1D](https://github.com/gecos-lab/DomStudioFracStat1D): a Matlab App used for statistical analysis of 1D scanline data as in [Bistacchi A., Mittempergher S., Martinelli M., Storti F., 2020. On a new robust workflow for the statistical and spatial analysis of fracture data collected with scanlines (or the importance of stationarity), Solid Earth, 11, 2535–2547](https://doi.org/10.5194/se-11-2535-2020). The algorithms behind [DomStudioFracStat1D](https://github.com/gecos-lab/DomStudioFracStat1D) have also been refactored in [Streamline2Scanline](https://github.com/gecos-lab/Streamline2Scanline), used for the analysis of spacing between lineaments on Mars in [De Toffoli, B., Massironi, M., Mazzarini, F., & Bistacchi, A., 2021. Rheological and mechanical layering of the crust underneath thumbprint terrains in Arcadia Planitia, Mars. Journal of Geophysical Research: Planets, 126, e2021JE007007](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JE007007).
+[FracLine](https://github.com/gecos-lab/FracLine) and [DomStudioFracStat1D](https://github.com/gecos-lab/DomStudioFracStat1D): a QGis plugin and Matlab App respectively, used for statistical analysis of 1D scanline data as in [Bistacchi A., Mittempergher S., Martinelli M., Storti F., 2020. On a new robust workflow for the statistical and spatial analysis of fracture data collected with scanlines (or the importance of stationarity), Solid Earth, 11, 2535–2547](https://doi.org/10.5194/se-11-2535-2020). The algorithms behind [DomStudioFracStat1D](https://github.com/gecos-lab/DomStudioFracStat1D) have also been refactored in [Streamline2Scanline](https://github.com/gecos-lab/Streamline2Scanline), used for the analysis of spacing between lineaments on Mars in [De Toffoli, B., Massironi, M., Mazzarini, F., & Bistacchi, A., 2021. Rheological and mechanical layering of the crust underneath thumbprint terrains in Arcadia Planitia, Mars. Journal of Geophysical Research: Planets, 126, e2021JE007007](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JE007007).
 \
 \
 \
@@ -20,7 +20,11 @@ gecos-lab is the place where a team of (mainly) structural geologists, (mainly) 
 \
 \
 \
-[FracAttitude](https://github.com/gecos-lab/FracAttitude): interactive Jupyter Notebook used for the analysis of orientation data imported as CSV files, performs K-medoids clustering, calculates von Mises-Fisher and Kent statistics, and performs ststistical tests for these distributions. An older and more limited version in Matlab is [DomStudioOrientation](https://github.com/gecos-lab/DomStudioOrientation).
+[FracArea](https://github.com/gecos-lab/FracArea): Python scripts for the analysis of fracture sets and networks on 2D sampling areas.
+\
+\
+\
+[qAttitude](https://github.com/gecos-lab/qAttitude) and [FracAttitude](https://github.com/gecos-lab/FracAttitude): a QGis plugin and an interactive Jupyter Notebook used for the analysis of orientation data imported as CSV files, performs K-medoids clustering, calculates von Mises-Fisher and Kent statistics, and performs ststistical tests for these distributions. An older and more limited version in Matlab is [DomStudioOrientation](https://github.com/gecos-lab/DomStudioOrientation).
 \
 \
 \
@@ -45,6 +49,10 @@ gecos-lab is the place where a team of (mainly) structural geologists, (mainly) 
 \
 \
 [mu_rho_H<sub>2</sub>O](https://github.com/gecos-lab/mu_rho_H2O): plotting μ and ρ of a saline fluid vs. P, T in the crust.
+\
+\
+\
+[roughness1D](https://github.com/gecos-lab/roughness_1D): Matlab code developed to perform roughness analysis on fault and fracture traces, as discussed in Bistacchi, A., Griffith, W.A., Smith, S.A.F., Di Toro, G., Jones, R., Nielsen, S., 2011. Fault Roughness at Seismogenic Depths from LIDAR and Photogrammetric Analysis. Pure and Applied Geophysics 168, 2345–2363. doi: 10.1007/s00024-011-0301-7.
 \
 \
 \
